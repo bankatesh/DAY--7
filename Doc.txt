@@ -1,0 +1,18 @@
+Hey everyone!
+Here I'have created a Voice Assistant using Python Language.
+The implemented assistant can open up the application and can be used to perform tasks: like
+1.Search Google
+2.Search Wikipedia 
+3.YouTube 
+4.Search stackoverflow
+5.Play music
+6.Tell us the current time
+7.Sending Emails etc 
+
+by just giving the voice command. It uses Google speech recognition API and google text to 
+speech for voice input and output respectively.
+
+
+
+
+
